@@ -1,9 +1,9 @@
 # ようこそ技術書輪読部へ！！ 👋
 
 ---
-現在の輪読本: **[達人に学ぶDB設計徹底指南書 第2版](https://www.seshop.com/product/detail/26395?utm_source=google_20240215&utm_medium=cpc&utm_campaign=r803&gad_source=1&gad_campaignid=21021959231&gbraid=0AAAAADyVxEG7msR7WwpcAreWIb5_Fv2ix&gclid=CjwKCAjw9anCBhAWEiwAqBJ-c6gXXwFSYHmPxJBokYmIaOW7hnFJq-bO5ixfc07k5Psa1IbaBrwJpxoC7FoQAvD_BwE)**
+現在の輪読本: **[Web API: The Good Parts](https://www.oreilly.co.jp/books/9784873116860/)**
 
-次回の輪読会: **2025年7月22日**
+次回の輪読会: **2026年8月19日**
 
 ---
 
@@ -11,7 +11,7 @@
 
 ### 輪読会の開催日
 
-- 週1回、18:30開始。
+- 基本は隔週1回、18:30開始。
 - 曜日を固定にするとリモート参加者が固定されてしまうおそれがあるので、曜日はローテーションする。
 
 ### 輪読本の決め方
@@ -51,4 +51,5 @@
 | 2 | [リーダブルコード](https://www.oreilly.co.jp/books/9784873115658/) | 2021/08 | 2021/11 |
 | 3 | [システム運用アンチパターン](https://www.oreilly.co.jp/books/9784873119847/) | 2022/12 | |
 | 4 | [エリック・エヴァンスのドメイン駆動設計](https://www.shoeisha.co.jp/book/detail/9784798126708) | 2024/04 | 2025/04|
-| 5 | [達人に学ぶDB設計徹底指南書 第2版](https://www.seshop.com/product/detail/26395?utm_source=google_20240215&utm_medium=cpc&utm_campaign=r803&gad_source=1&gad_campaignid=21021959231&gbraid=0AAAAADyVxEG7msR7WwpcAreWIb5_Fv2ix&gclid=CjwKCAjw9anCBhAWEiwAqBJ-c6gXXwFSYHmPxJBokYmIaOW7hnFJq-bO5ixfc07k5Psa1IbaBrwJpxoC7FoQAvD_BwE) | 2025/07 | |
+| 5 | [達人に学ぶDB設計徹底指南書 第2版](https://www.seshop.com/product/detail/26395?utm_source=google_20240215&utm_medium=cpc&utm_campaign=r803&gad_source=1&gad_campaignid=21021959231&gbraid=0AAAAADyVxEG7msR7WwpcAreWIb5_Fv2ix&gclid=CjwKCAjw9anCBhAWEiwAqBJ-c6gXXwFSYHmPxJBokYmIaOW7hnFJq-bO5ixfc07k5Psa1IbaBrwJpxoC7FoQAvD_BwE) | 2025/07 | 2026/01|
+| 6 | [Web API: The Good Parts](https://www.oreilly.co.jp/books/9784873116860/) | 2026/06 |  |
